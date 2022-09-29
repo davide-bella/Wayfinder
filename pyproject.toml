@@ -5,7 +5,7 @@ requires = ["hatchling",
 build-backend = "hatchling.build"
 [project]
 name = "wayfinder"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
   { name="Davide Bella", email="davide.bella89@gmail.com" },
 ]
